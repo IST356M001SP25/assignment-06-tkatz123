@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I learned a lot about creating ETL pipelines in this assignment. Firstly, I created functions that where calls to API's which I would need to complete this process. This exercise helped me solidify my skills in calling to API's. Next I went step by step, applying each one of the API call functions to new funcionts which where used as input for subsequent functions. In the end, the final CSV file was a culminiatin of all the API calls, and functions I had created previously. However, I'm not positive I did this assignment correctly. I wasn't able to create a cache folder of my own and had to use the solutions cache folder. I'm not sure if that was correct or not but I'm looking for further guidance on how to correct this.
